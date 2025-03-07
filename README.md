@@ -38,9 +38,9 @@ website.net
 ### **Sample Output (`output.csv`)**
 ```csv
 input domain,status code,status,redirected domain
-domain1.com,200,Valid,
+domain1.com,200,Valid
 example.org,301,Redirected,example.net
-website.net,404,Invalid,
+website.net,404,Invalid
 ```
 
 The output CSV will contain:
