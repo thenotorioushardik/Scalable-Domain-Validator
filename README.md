@@ -39,7 +39,7 @@ website.net
 ```csv
 input domain,status code,status,redirected domain
 domain1.com,200,Valid,
-example.org,301,Redirected,www.example.org
+example.org,301,Redirected,example.net
 website.net,404,Invalid,
 ```
 
